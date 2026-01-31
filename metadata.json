@@ -1,0 +1,9 @@
+{
+  "name": "CureLink - AI Health Guardian",
+  "description": "An AI-powered health awareness and assistance platform providing disease information, vaccination tracking, hospital resource management, and visual symptom awareness.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
